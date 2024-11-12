@@ -33,9 +33,10 @@
 <h3>Skills:</h3>
 <ul style="list-style-type: none; padding: 0;">
   <li><strong>💻 Programming Languages:</strong> C, Python, C++</li>
-  <li><strong>🔧 Embedded Systems:</strong> Arduino, ESP32, STM32 </li>
+  <li><strong>🔧 Embedded Systems:</strong> Arduino, ESP32, STM32</li>
   <li><strong>🤖 Artificial Intelligence & Machine Learning:</strong> TensorFlow, Keras, scikit-learn, PyTorch</li>
   <li><strong>🌐 Internet of Things (IoT):</strong> NodeMCU, Blynk</li>
   <li><strong>📉 Data Science & Analytics:</strong> Pandas, NumPy, Matplotlib, Jupyter Notebooks</li>
   <li><strong>🛠️ Circuit Design:</strong> KiCad, Proteus, Tinkercad, LTSpice</li>
 </ul>
+>
