@@ -20,15 +20,15 @@
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Rohan Chanana</h1>
 <img align="right" alt="Coding" width="400" src="https://myoctocat.com/assets/images/octocats/octocat-24.png">
 
 <!-- No bullets here -->
 <div style="padding: 0; margin: 0;">
-  <p>🔭 I’m currently working on <strong>[Your Project]</strong></p>
-  <p>🌱 I’m currently learning <strong>[Your Learning Focus]</strong></p>
-  <p>💬 Ask me about <strong>[Your Areas of Expertise]</strong></p>
-  <p>📫 How to reach me: <strong>[Your Email]</strong></p>
+  <p>🔭 I’m currently working on <strong>Personal Projects</strong></p>
+  <p>🌱 I’m currently learning <strong>API Trading</strong></p>
+  <p>💬 Ask me about <strong>AI and Electronics</strong></p>
+  <p>📫 How to reach me: <strong>email</strong></p>
 </div>
 
 <h3>Skills:</h3>
