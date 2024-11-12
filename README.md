@@ -39,4 +39,3 @@
   <li><strong>📉 Data Science & Analytics:</strong> Pandas, NumPy, Matplotlib, Jupyter Notebooks</li>
   <li><strong>🛠️ Circuit Design:</strong> KiCad, Proteus, Tinkercad, LTSpice</li>
 </ul>
->
