@@ -23,19 +23,23 @@
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <img align="right" alt="Coding" width="400" src="https://myoctocat.com/assets/images/octocats/octocat-24.png">
-<ul style="list-style-type: none; font-size: 16px; padding: 0;">
-  <li>🔭 I’m currently working on <strong>[Your Project]</strong></li>
-  <li>🌱 I’m currently learning <strong>[Your Learning Focus]</strong></li>
-  <li>💬 Ask me about <strong>[Your Areas of Expertise]</strong></li>
-  <li>📫 How to reach me: <strong>[Your Email]</strong></li>
-</ul>
+
+<!-- No bullets here -->
+<div style="padding: 0; margin: 0;">
+  <p>🔭 I’m currently working on <strong>[Your Project]</strong></p>
+  <p>🌱 I’m currently learning <strong>[Your Learning Focus]</strong></p>
+  <p>💬 Ask me about <strong>[Your Areas of Expertise]</strong></p>
+  <p>📫 How to reach me: <strong>[Your Email]</strong></p>
+</div>
 
 <h3>Skills:</h3>
-<ul style="list-style-type: none; padding: 0;">
-  <li><strong>💻 Programming Languages:</strong> C, Python, C++</li>
-  <li><strong>🔧 Embedded Systems:</strong> Arduino, ESP32, STM32</li>
-  <li><strong>🤖 Artificial Intelligence & Machine Learning:</strong> TensorFlow, Keras, scikit-learn, PyTorch</li>
-  <li><strong>🌐 Internet of Things (IoT):</strong> NodeMCU, Blynk</li>
-  <li><strong>📉 Data Science & Analytics:</strong> Pandas, NumPy, Matplotlib, Jupyter Notebooks</li>
-  <li><strong>🛠️ Circuit Design:</strong> KiCad, Proteus, Tinkercad, LTSpice</li>
-</ul>
+
+<!-- No bullets here either -->
+<div style="padding: 0; margin: 0;">
+  <p><strong>💻 Programming Languages:</strong> C, Python, C++</p>
+  <p><strong>🔧 Embedded Systems:</strong> Arduino, ESP32, STM32</p>
+  <p><strong>🤖 Artificial Intelligence & Machine Learning:</strong> TensorFlow, Keras, scikit-learn, PyTorch</p>
+  <p><strong>🌐 Internet of Things (IoT):</strong> NodeMCU, Blynk</p>
+  <p><strong>📉 Data Science & Analytics:</strong> Pandas, NumPy, Matplotlib, Jupyter Notebooks</p>
+  <p><strong>🛠️ Circuit Design:</strong> KiCad, Proteus, Tinkercad, LTSpice</p>
+</div>
