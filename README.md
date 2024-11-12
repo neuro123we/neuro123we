@@ -24,19 +24,21 @@
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **[Your Project]**
-- 🌱 I’m currently learning **[Your Learning Focus]**
-- 💬 Ask me about **[Your Areas of Expertise]**
-- 📫 How to reach me **[Your Email]**
+<ul>
+  <li>🔭 I’m currently working on <strong>[Your Project]</strong></li>
+  <li>🌱 I’m currently learning <strong>[Your Learning Focus]</strong></li>
+  <li>💬 Ask me about <strong>[Your Areas of Expertise]</strong></li>
+  <li>📫 How to reach me <strong>[Your Email]</strong></li>
+</ul>
 
 <h3 align="left">Skills:</h3>
 <ul align="left">
-
-- **Programming Languages:** C 💻, Python 🐍, C++ ➕, Arduino 🔧
-- **Embedded Systems:** Arduino 🔧, ESP32 🌐, STM32 🛠️
-- **Artificial Intelligence & Machine Learning:** TensorFlow 🤖, Keras 🧠, scikit-learn 📚, PyTorch 📊
-- **Internet of Things (IoT):** NodeMCU 🌐, Raspberry Pi 🍓, ThingSpeak 📡, Blynk 📱
-- **Data Science & Analytics:** Pandas 📊, NumPy 📚, Matplotlib 📉, Jupyter Notebooks 📓
-- **Circuit Design:** KiCad 🔌, Proteus 🛠️, Tinkercad 🖥️, LTSpice ⚡
+  <li><strong>Programming Languages:</strong> C 💻, Python 🐍, C++ ➕, Arduino 🔧</li>
+  <li><strong>Embedded Systems:</strong> Arduino 🔧, ESP32 🌐, STM32 🛠️</li>
+  <li><strong>Artificial Intelligence & Machine Learning:</strong> TensorFlow 🤖, Keras 🧠, scikit-learn 📚, PyTorch 📊</li>
+  <li><strong>Internet of Things (IoT):</strong> NodeMCU 🌐, Raspberry Pi 🍓, ThingSpeak 📡, Blynk 📱</li>
+  <li><strong>Data Science & Analytics:</strong> Pandas 📊, NumPy 📚, Matplotlib 📉, Jupyter Notebooks 📓</li>
+  <li><strong>Circuit Design:</strong> KiCad 🔌, Proteus 🛠️, Tinkercad 🖥️, LTSpice ⚡</li>
 </ul>
+
 
