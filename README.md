@@ -37,5 +37,5 @@
   <li><strong>Artificial Intelligence & Machine Learning:</strong> TensorFlow 🤖, Keras 🧠, scikit-learn 📚, PyTorch 📊</li>
   <li><strong>Internet of Things (IoT):</strong> NodeMCU 🌐, Raspberry Pi 🍓, ThingSpeak 📡, Blynk 📱</li>
   <li><strong>Data Science & Analytics:</strong> Pandas 📊, NumPy 📚, Matplotlib 📉, Jupyter Notebooks 📓</li>
-  <li><strong>Circuit Design:</strong> KiCad 🔌, Proteus 🛠️, Tinkercad 🖥️, LTSpice ⚡</li>
+  <li><strong>🛠️ Circuit Design:</strong> KiCad, Proteus, Tinkercad, LTSpice</li>
 </ul>
