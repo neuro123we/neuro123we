@@ -22,8 +22,7 @@
 ```
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<img align="right" alt="Coding" width="400" src="https://myoctocat.com/assets/images/octocats/octocat-24.png">
 <ul style="list-style-type: none; font-size: 16px; padding: 0;">
   <li>🔭 I’m currently working on <strong>[Your Project]</strong></li>
   <li>🌱 I’m currently learning <strong>[Your Learning Focus]</strong></li>
