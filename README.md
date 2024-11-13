@@ -21,7 +21,7 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
 <h1 align="center">Hi 👋, I'm Rohan Chanana</h1>
-<img align="right" alt="Coding" width="400" src="https://myoctocat.com/assets/images/octocats/octocat-24.png">
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/hPZXkrK2/octocat-1731450459356.png">
 
 <!-- No bullets here -->
 <div style="padding: 0; margin: 0;">
