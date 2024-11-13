@@ -9,6 +9,7 @@
 </div>
 
 <h3>Skills :</h3>
+
 - **💻 Programming Languages** : C, Python, C++
 - **🔧 Embedded Systems** : Arduino, ESP32, STM32, Blynk
 - **🤖 Artificial Intelligence & Machine Learning** : TensorFlow, Keras, scikit-learn, PyTorch
