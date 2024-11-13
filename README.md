@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rohan Chanana</h1>
+
 <img align="right" alt="Coding" width="400" src="https://i.postimg.cc/hPZXkrK2/octocat-1731450459356.png">
 
-<!-- No bullets here -->
 <div style="padding: 0; margin: 0;">
-  <p>🔭 Currently working on building complex embedded systems and AI applications, with a strong focus on innovation in both fields.</p>
-  <p>🌱 Passionate about <strong>AI and Electronics</strong> in emerging fields, always exploring new technologies to create impactful solutions.</p>
-  <p>📫 How to reach me: <strong><a href="mailto:your-email@example.com">email</a></strong></p>
+  <p>🔭 Currently working on building complex embedded systems and AI applications, with a strong focus on innovation and problem-solving.</p>
+  <p>🌱 Passionate about <strong>AI and Electronics</strong>, continuously exploring emerging technologies to create impactful solutions in both fields.</p>
+  <p>📫 Reach out to me via email: <strong><a href="mailto:your-rohanchanana7@gmail.com">your-rohanchanana7@gmail.com</a></strong></p>
 </div>
 
-<h3>Skills:</h3>
+## Skills:
+Here are some technologies I've worked with:
 
-<!-- No bullets here -->
-<div style="padding: 0; margin: 0;">
-  <p><strong>💻 Programming Languages:</strong> C, Python, C++</p>
-  <p><strong>🔧 Embedded Systems:</strong> Arduino, ESP32, STM32, Blynk</p>
-  <p><strong>🤖 Artificial Intelligence & Machine Learning:</strong> TensorFlow, Keras, scikit-learn, PyTorch</p>
-  <p><strong>📉 Data Science & Analytics:</strong> Pandas, NumPy, Matplotlib</p>
-  <p><strong>🛠️ Circuit Design:</strong> KiCad, Proteus, Tinkercad, LTSpice</p>
-</div>
+- **💻 Programming Languages**: C, Python, C++
+- **🔧 Embedded Systems**: Arduino, ESP32, STM32, Blynk
+- **🤖 Artificial Intelligence & Machine Learning**: TensorFlow, Keras, scikit-learn, PyTorch
+- **📉 Data Science & Analytics**: Pandas, NumPy, Matplotlib
+- **🛠️ Circuit Design**: KiCad, Proteus, Tinkercad, LTSpice
+
+---
+
+Feel free to check out my projects below or reach out to me if you want to collaborate!
