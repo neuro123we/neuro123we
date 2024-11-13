@@ -18,4 +18,5 @@ Here are some technologies I've worked with:
 - **🛠️ Circuit Design**: KiCad, LTSpice
 
 Feel free to check out my projects below or reach out to me if you want to collaborate!
+
 ---
