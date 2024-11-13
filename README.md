@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rohan Chanana</h1>
 
-<p align="right">
+<div style="display: flex; align-items: center;">
+  <div>
+    <p>🔭 <strong>Currently working</strong> on developing <strong>advanced embedded systems</strong> and <strong>AI applications</strong>, focusing on creating solutions that push the boundaries of technology.</p>
+    <p>🌱 <strong>Passionate about AI</strong> and <strong>Electronics</strong>, always exploring cutting-edge technologies to integrate into innovative projects that make a real-world impact.</p>
+    <p>💬 Feel free to reach out to me for collaborations or just to chat about technology!</p>
+  </div>
   <img alt="Coding" width="400" src="https://i.postimg.cc/hPZXkrK2/octocat-1731450459356.png">
-</p>
-
-### 👨‍💻 About Me:
-- 🔭 **Currently working** on developing **advanced embedded systems** and **AI applications**, focusing on creating solutions that push the boundaries of technology.
-- 🌱 **Passionate about AI** and **Electronics**, always exploring cutting-edge technologies to integrate into innovative projects that make a real-world impact.
-- 💬 Feel free to reach out to me for collaborations or just to chat about technology!
+</div>
 
 ### 📬 Contact:
 - Email: [rohanchanana7@gmail.com](mailto:rohanchanana7@gmail.com)
