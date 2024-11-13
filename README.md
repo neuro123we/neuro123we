@@ -13,9 +13,8 @@
 <!-- No bullets here -->
 <div style="padding: 0; margin: 0;">
   <p><strong>💻 Programming Languages:</strong> C, Python, C++</p>
-  <p><strong>🔧 Embedded Systems:</strong> Arduino, ESP32, STM32</p>
+  <p><strong>🔧 Embedded Systems:</strong> Arduino, ESP32, STM32, Blynk</p>
   <p><strong>🤖 Artificial Intelligence & Machine Learning:</strong> TensorFlow, Keras, scikit-learn, PyTorch</p>
-  <p><strong>🌐 Internet of Things (IoT):</strong> NodeMCU, Blynk</p>
   <p><strong>📉 Data Science & Analytics:</strong> Pandas, NumPy, Matplotlib, Jupyter Notebooks</p>
   <p><strong>🛠️ Circuit Design:</strong> KiCad, Proteus, Tinkercad, LTSpice</p>
 </div>
