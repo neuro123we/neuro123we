@@ -8,7 +8,7 @@
   <p>📫 Reach out to me via email: <strong><a href="mailto:rohanchanana7@gmail.com">rohanchanana7@gmail.com</a></strong></p>
 </div>
 
-## Skills:
+<h3>Skills:</h3>
 Here are some technologies I've worked with:
 
 - **💻 Programming Languages**: C, Python, C++
@@ -18,3 +18,4 @@ Here are some technologies I've worked with:
 - **🛠️ Circuit Design**: KiCad, LTSpice
 
 Feel free to check out my projects below or reach out to me if you want to collaborate!
+---
