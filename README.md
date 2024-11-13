@@ -5,7 +5,7 @@
 <div style="padding: 0; margin: 0;">
   <p>🔭 Currently working on building complex embedded systems and AI applications, with a strong focus on innovation and problem-solving.</p>
   <p>🌱 Passionate about <strong>AI and Electronics</strong>, continuously exploring emerging technologies to create impactful solutions in both fields.</p>
-  <p>📫 Reach out to me via email: <strong><a href="mailto:your-rohanchanana7@gmail.com">your-rohanchanana7@gmail.com</a></strong></p>
+  <p>📫 Reach out to me via email: <strong><a href="mailto:rohanchanana7@gmail.com">rohanchanana7@gmail.com</a></strong></p>
 </div>
 
 ## Skills:
