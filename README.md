@@ -3,22 +3,19 @@
 
 <!-- No bullets here -->
 <div style="padding: 0; margin: 0;">
-  <p>🔭Current Focus
-- Learning advanced AI techniques and exploring deep learning frameworks like PyTorch and TensorFlow.
-- Working on building more complex embedded systems and IoT applications.</strong></p>
-  <p>🌱 I’m currently learning <strong>API Trading</strong></p>
-  <p>💬 Ask me about <strong>AI and Electronics</strong></p>
-  <p>📫 How to reach me: <strong>email</strong></p>
+  <p>🔭 Currently working on building complex embedded systems and AI applications, with a strong focus on innovation in both fields.</p>
+  <p>🌱 Passionate about <strong>AI and Electronics</strong> in emerging fields, always exploring new technologies to create impactful solutions.</p>
+  <p>📫 How to reach me: <strong><a href="mailto:your-email@example.com">email</a></strong></p>
 </div>
 
 <h3>Skills:</h3>
 
-<!-- No bullets here either -->
+<!-- No bullets here -->
 <div style="padding: 0; margin: 0;">
   <p><strong>💻 Programming Languages:</strong> C, Python, C++</p>
   <p><strong>🔧 Embedded Systems:</strong> Arduino, ESP32, STM32</p>
-  <p><strong>🤖 Artificial Intelligence:</strong> TensorFlow, Keras, scikit-learn, PyTorch</p>
+  <p><strong>🤖 Artificial Intelligence & Machine Learning:</strong> TensorFlow, Keras, scikit-learn, PyTorch</p>
   <p><strong>🌐 Internet of Things (IoT):</strong> NodeMCU, Blynk</p>
-  <p><strong>📉 Data Science & Analytics:</strong> Pandas, NumPy, Matplotlib</p>
+  <p><strong>📉 Data Science & Analytics:</strong> Pandas, NumPy, Matplotlib, Jupyter Notebooks</p>
   <p><strong>🛠️ Circuit Design:</strong> KiCad, Proteus, Tinkercad, LTSpice</p>
 </div>
