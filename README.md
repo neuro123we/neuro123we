@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Chanana</h1>
 
-<p align="center">🔭 Developing innovative embedded systems and AI applications 🚀</p>
+<p align="center">🔭 Building embedded systems and AI applications, exploring new technologies and applying them to real-world projects that solve practical problems.</p>
 
 <h3>Skills :</h3>
 
