@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohan Chanana</h1>
+<h1 align="left">Hi 👋, I'm Rohan Chanana</h1>
 
 <p align="center">🔭 Building embedded systems and AI applications, exploring new technologies and applying them to real-world projects that solve practical problems.</p>
 
