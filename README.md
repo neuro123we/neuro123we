@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Chanana</h1>
 
-<p align="center">🔭 Building innovative embedded systems and AI applications 🚀</p>
+<p align="center">🔭 Developing innovative embedded systems and AI applications 🚀</p>
 
 <h3>Skills :</h3>
 
@@ -10,3 +10,5 @@
 - **📊 Data & Analysis** : Pandas, NumPy, Matplotlib, SQL  
 
 <p align="center">📫 Reach me at <strong><a href="mailto:rohanchanana2@gmail.com">rohanchanana2@gmail.com</a></strong></p>
+
+<p align="center">Feel free to check out my projects below or reach out to collaborate!</p>
